@@ -1,3 +1,4 @@
+[Warning] Acquired exclusive lock but discovered existing shared memory pool, destroying and reinitialising
 Initialising UDS system complete:
   - System type: Client
   - Resource namespace: b97463a947c6ea27120769b706685735
